@@ -8,5 +8,5 @@ int main(){
 
     int a =5, b=10,c;
     c = b / a;
-    cout<<c;
+    cout<<"Helle world";
 }
